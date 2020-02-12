@@ -1,0 +1,9 @@
+{
+    "name": "delibella",
+    "description": "website",
+    "vertion": "0.9",
+    "engines": {
+	"node": "10.15.2",
+   	"npm": "5.8.0"
+    }
+}
